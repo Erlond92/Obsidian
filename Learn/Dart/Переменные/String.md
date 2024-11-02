@@ -1,5 +1,5 @@
 
-Объединение строк
+## Объединение строк
 
 Лучшие способ 
 
@@ -18,7 +18,8 @@ var list = ['1', '2', '3'];
 
 var kontant = StringBuffer();
 list.forEach((item) {
-	kontant.write(item); // 
+	kontant.write(item); // writeln - чтобы был переход на новую
 });
 var fff = kontan.toString();
 ```
+
