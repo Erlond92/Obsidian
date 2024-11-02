@@ -14,5 +14,8 @@ print(d); // '1 2 3'
 `StringBuffer()`
 
 ```
-var lontant = 
+var list = ['1', '2', '3'];
+
+var kontant = StringBuffer();
+list.for
 ```
