@@ -17,5 +17,8 @@ print(d); // '1 2 3'
 var list = ['1', '2', '3'];
 
 var kontant = StringBuffer();
-list.for
+list.forEach((item) {
+	kontant.write(item); // 
+});
+var fff = kontan.toString();
 ```
