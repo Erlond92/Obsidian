@@ -2,7 +2,7 @@
 
 Главный герой: Собачка
 
-Visual Description: A Male Dog, golden retriever, medium-sized, with fluffy golden fur that glows slightly in sunlight, big shiny brown eyes full of expressiveness, a black nose that’s slightly wet-looking, long floppy ears with a soft curve, and a bushy tail that curls slightly at the end. He wears a bright red collar with a shiny golden medallion that reflects light. His posture is energetic, with a slight bounce in his stance, emphasizing his lively and heroic nature. Pixar style, 3D render.
+Visual Description: C
 
 Щенок 1: Коричневый чихуахуа
 
